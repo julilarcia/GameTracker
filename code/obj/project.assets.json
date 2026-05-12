@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/julia/vsc/pz2/GameTracker/GameTracker/GameTracker.csproj",
+      "projectUniqueName": "/Users/julia/vsc/pz2/GameTracker/code/GameTracker.csproj",
       "projectName": "GameTracker",
-      "projectPath": "/Users/julia/vsc/pz2/GameTracker/GameTracker/GameTracker.csproj",
+      "projectPath": "/Users/julia/vsc/pz2/GameTracker/code/GameTracker.csproj",
       "packagesPath": "/Users/julia/.nuget/packages/",
-      "outputPath": "/Users/julia/vsc/pz2/GameTracker/GameTracker/obj/",
+      "outputPath": "/Users/julia/vsc/pz2/GameTracker/code/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/julia/.nuget/NuGet/NuGet.Config"
