@@ -1,0 +1,8 @@
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.AssemblyInfoInputs.cache
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.AssemblyInfo.cs
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.csproj.CoreCompileInputs.cache
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.MvcApplicationPartsAssemblyInfo.cache
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.RazorAssemblyInfo.cache
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.RazorAssemblyInfo.cs
+/Users/kajadragun/Desktop/studia/GameTracker/GameTracker/code/obj/Debug/net8.0/GameTracker.sourcelink.json
