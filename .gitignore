@@ -1,0 +1,15 @@
+# Foldery z plikami tymczasowymi i skompilowanym kodem (z Twojego screena)
+[Bb]in/
+[Oo]bj/
+
+# Pliki bazy danych SQLite (żebyście nie nadpisywały sobie bazy!)
+*.db
+*.sqlite
+*.sqlite3
+
+# Pliki systemowe macOS
+.DS_Store
+
+# Ustawienia lokalne środowiska (opcjonalnie)
+.vscode/
+appsettings.Development.json
